@@ -1,0 +1,3 @@
+Hello
+Welcome to TIL6022
+This is a simple text file
